@@ -1,2 +1,2 @@
 # crawlMusic
-利用python爬取QQ音乐的TOP100榜单，里面会学习到爬取多json内容的一些逻辑思维，多线程爬取效率
+利用python爬取QQ音乐的TOP100榜单，利用json文本进行多线程爬虫
